@@ -1,0 +1,26 @@
+/* This CSS includes all changes related to nyc global css */
+
+
+/* line 96, index.scss */
+.module-agency-columns #addressNumber {
+  width: 94%;
+  height: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px; }
+  @media only screen and (max-width: 767px) {
+    /* line 96, index.scss */
+    .module-agency-columns #addressNumber {
+      width: 96%; } }
+  @media only screen and (max-width: 480px) {
+    /* line 96, index.scss */
+    .module-agency-columns #addressNumber {
+      width: 93%; } }
+
+/* line 110, index.scss */
+.ie7 .module-agency-columns #addressNumber {
+  width: 92%; }
+
+  
+  
+  

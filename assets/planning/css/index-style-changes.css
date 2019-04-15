@@ -1,0 +1,80 @@
+
+.notice-stay-connected img{
+	width:40px;
+	height:40px;
+	margin-right:20px;
+
+}
+
+#agencies-index .module-agency-columns h4.sub_header{
+	background:#818181;
+	padding:6px 10px;
+	color:white;
+	font-size: 18px;
+	
+}
+
+#agencies-index .module-agency-columns h4.sub_header a,
+#agencies-index .module-agency-columns h4.sub_header a:hover{
+	
+	color:white;
+	font-size: 18px;
+	
+}
+
+.radio_label small{
+	position:relative;
+	top:4px;
+	font-weight:bold;
+	color:#777;
+	
+}
+
+#agencies-index .module-agency-columns .img-caption{
+	margin-bottom:12px;
+}
+
+
+#agencies-index .module-agency-columns form{
+	margin:10px 0
+}
+
+.module {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.module .module-header h2, .module .module-header .module-title{
+margin: 20px 0px 0px;
+}
+
+.module .module-header .button-link, .module .module-header .button-link-arrow {
+    float: right;
+    margin-top: 23px;
+    margin-left: 5px;
+}
+.module-agency-columns .agencies-second {
+	margin: 20px 0 0 0;
+}
+.module-homepage-hero .richtext h2.hero-title a.arrow-link-white {
+  padding-right: 20px;
+  background-image:none;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 100% 60%; }
+
+.module-homepage-hero .richtext {
+  display:none; }
+  @media screen and (max-width: 767px) {
+    
+    .module-homepage-hero .richtext {
+     display:none; } }
+  @media screen and (max-width: 480px) {
+    
+    .module-homepage-hero .richtext {
+     display:none; } }
+	 
+	 
+.module-agency-columns .agencies-second, .agencies-third {
+  background: #fff;
+  margin: 20px 0 0 0; }
